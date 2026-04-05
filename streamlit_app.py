@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 import matplotlib.pyplot as plt
+from src.predict import predict_survival
+import streamlit as st
 
 # --------------------------------------------------
 # Page Config
