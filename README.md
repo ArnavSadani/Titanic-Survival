@@ -104,9 +104,6 @@ python src/train.py
 
 ---
 
-👨‍💻 Author: Bhumik Kumta  
-GitHub: https://github.com/Bhumik2005  
-LinkedIn: https://www.linkedin.com/in/bhumik-kumta-/
 
 
 
